@@ -1,0 +1,10 @@
+pandas
+tqdm
+python-dotenv
+openpyxl
+google-generativeai
+langchain
+faiss-cpu
+langchain-community
+langchain_google_genai
+openai
