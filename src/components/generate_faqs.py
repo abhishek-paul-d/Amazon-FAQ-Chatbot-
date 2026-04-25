@@ -1,5 +1,5 @@
 import pandas as pd
-from openai import OpenAI
+from langchain import OpenAI
 from tqdm import tqdm
 from dotenv import load_dotenv
 import os 
