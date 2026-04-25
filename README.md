@@ -6,7 +6,9 @@
 
 ## 📸 Quick Demo
 
-![FAQ RAG Chatbot Web UI](assets/demo_screenshot.png)
+![FAQ RAG Chatbot Web UI](<img width="1920" height="1080" alt="Screenshot 2026-04-25 182506" src="https://github.com/user-attachments/assets/581d960c-57ec-4bc4-b7e4-d417e0487cb8" />
+)
+<img width="1920" height="1080" alt="Screenshot 2026-04-25 182543" src="https://github.com/user-attachments/assets/298a6f0c-cdca-4e4b-aa57-aa2fb1ea3f7c" />
 
 The web UI (running at `localhost:8501`) answers a natural-language product question and expands a **Sources** panel showing the exact FAQ chunks retrieved — including the originating product name and the Q&A text used to construct the answer.
 
